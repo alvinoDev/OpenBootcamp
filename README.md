@@ -1,2 +1,2 @@
 # OpenBootcamp
-Contiene ejercicios resueltos de los modulos y temas propuestos, por OpenBootcamp. Link: https://open-bootcamp.com/
+Contiene ejercicios resueltos en los modulos y temas propuestos por OpenBootcamp (https://open-bootcamp.com/)
